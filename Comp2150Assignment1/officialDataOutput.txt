@@ -1,0 +1,275 @@
+Trying to open file.
+Enter filename: 
+Successfully added tutor with user id "tutor1" and total hours: 10.
+Successfully added tutor with user id "tutor2" and total hours: 10.
+Successfully added student with user id "student1".
+Successfully added topic "OO" to tutor with user id "tutor1" with price of $20.
+Successfully added topic "OO" to tutor with user id "tutor2" with price of $15.
+Attempting to fulfill request for "student1" to receive 5 hours of tutoring in topic "OO".
+Tutor "tutor2" will tutor student "student1 for 5 in topic "OO at a rate of $15
+
+Report for student "student1"
+---------------------------------------------
+Appointment with tutor "tutor2": Topic: OO, Hours: 5, Total Cost: $75
+Total number of hours of tutoring: 5
+Total cost of tutoring: $75
+---------------------------------------------
+
+Report for tutor "tutor1"
+---------------------------------------------
+Total number of hours of tutoring: 0
+Total revenue from tutoring: $0
+---------------------------------------------
+
+Report for tutor "tutor2"
+---------------------------------------------
+Appointment with student "student1": Topic: OO, Hours: 5, Total Revenue: $75
+Total number of hours of tutoring: 5
+Total revenue from tutoring: $75
+---------------------------------------------
+Successfully added tutor with user id "tutor3" and total hours: 10.
+Successfully added student with user id "student2".
+Successfully added topic "t2" to tutor with user id "tutor1" with price of $20.
+Successfully added topic "t2" to tutor with user id "tutor2" with price of $15.
+Successfully added topic "t2" to tutor with user id "tutor3" with price of $14.
+Attempting to fulfill request for "student2" to receive 15 hours of tutoring in topic "t2".
+Tutor "tutor3" will tutor student "student2 for 10 in topic "t2 at a rate of $14
+Tutor "tutor2" will tutor student "student2 for 5 in topic "t2 at a rate of $15
+
+Report for student "student2"
+---------------------------------------------
+Appointment with tutor "tutor3": Topic: t2, Hours: 10, Total Cost: $140
+Appointment with tutor "tutor2": Topic: t2, Hours: 5, Total Cost: $75
+Total number of hours of tutoring: 15
+Total cost of tutoring: $215
+---------------------------------------------
+
+Report for tutor "tutor3"
+---------------------------------------------
+Appointment with student "student2": Topic: t2, Hours: 10, Total Revenue: $140
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $140
+---------------------------------------------
+
+Report for tutor "tutor2"
+---------------------------------------------
+Appointment with student "student1": Topic: OO, Hours: 5, Total Revenue: $75
+Appointment with student "student2": Topic: t2, Hours: 5, Total Revenue: $75
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $150
+---------------------------------------------
+
+Report for tutor "tutor1"
+---------------------------------------------
+Total number of hours of tutoring: 0
+Total revenue from tutoring: $0
+---------------------------------------------
+Attempting to fulfill request for "student1" to receive 1 hours of tutoring in topic "othertopic".
+Failed to appoint 1 hours in topic "othertopic" for student with user id "student1".
+Attempting to fulfill request for "student1" to receive 1 hours of tutoring in topic "t2".
+Tutor "tutor1" will tutor student "student1 for 1 in topic "t2 at a rate of $20
+
+Report for student "student1"
+---------------------------------------------
+Appointment with tutor "tutor2": Topic: OO, Hours: 5, Total Cost: $75
+Appointment with tutor "tutor1": Topic: t2, Hours: 1, Total Cost: $20
+Total number of hours of tutoring: 6
+Total cost of tutoring: $95
+---------------------------------------------
+Successfully added tutor with user id "tutor4" and total hours: 10.
+Successfully added tutor with user id "tutor5" and total hours: 15.
+Successfully added tutor with user id "tutor6" and total hours: 1.
+Successfully added student with user id "student3".
+Successfully added topic "t3" to tutor with user id "tutor4" with price of $10.
+Successfully added topic "t3" to tutor with user id "tutor5" with price of $10.
+Successfully added topic "t3" to tutor with user id "tutor6" with price of $5.
+Attempting to fulfill request for "student3" to receive 300 hours of tutoring in topic "t3".
+Failed to appoint 300 hours in topic "t3" for student with user id "student3".
+
+Report for student "student3"
+---------------------------------------------
+Total number of hours of tutoring: 0
+Total cost of tutoring: $0
+---------------------------------------------
+
+Report for tutor "tutor4"
+---------------------------------------------
+Total number of hours of tutoring: 0
+Total revenue from tutoring: $0
+---------------------------------------------
+
+Report for tutor "tutor5"
+---------------------------------------------
+Total number of hours of tutoring: 0
+Total revenue from tutoring: $0
+---------------------------------------------
+
+Report for tutor "tutor6"
+---------------------------------------------
+Total number of hours of tutoring: 0
+Total revenue from tutoring: $0
+---------------------------------------------
+Successfully added topic "t4" to tutor with user id "tutor2" with price of $1.
+Attempting to fulfill request for "student3" to receive 1 hours of tutoring in topic "t4".
+Failed to appoint 1 hours in topic "t4" for student with user id "student3".
+
+Report for tutor "tutor2"
+---------------------------------------------
+Appointment with student "student1": Topic: OO, Hours: 5, Total Revenue: $75
+Appointment with student "student2": Topic: t2, Hours: 5, Total Revenue: $75
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $150
+---------------------------------------------
+Successfully added tutor with user id "aaron" and total hours: 10.
+Successfully added tutor with user id "betty" and total hours: 10.
+Successfully added tutor with user id "charles" and total hours: 20.
+Successfully added tutor with user id "deborah" and total hours: 8.
+Successfully added student with user id "student4".
+Successfully added topic "anothertopicthatslonger" to tutor with user id "deborah" with price of $100.
+Successfully added topic "anothertopicthatslonger" to tutor with user id "charles" with price of $200.
+Successfully added topic "anothertopicthatslonger" to tutor with user id "betty" with price of $200.
+Successfully added topic "anothertopicthatslonger" to tutor with user id "aaron" with price of $200.
+Attempting to fulfill request for "student4" to receive 39 hours of tutoring in topic "anothertopicthatslonger".
+Tutor "deborah" will tutor student "student4 for 8 in topic "anothertopicthatslonger at a rate of $100
+Tutor "charles" will tutor student "student4 for 20 in topic "anothertopicthatslonger at a rate of $200
+Tutor "aaron" will tutor student "student4 for 10 in topic "anothertopicthatslonger at a rate of $200
+Tutor "betty" will tutor student "student4 for 1 in topic "anothertopicthatslonger at a rate of $200
+Successfully added tutor with user id "tutor111" and total hours: 10.
+Successfully added tutor with user id "tutor112" and total hours: 10.
+Successfully added tutor with user id "tutor113" and total hours: 80.
+Successfully added tutor with user id "tutor121" and total hours: 10.
+Successfully added tutor with user id "tutor122" and total hours: 10.
+Successfully added tutor with user id "tutor123" and total hours: 80.
+Successfully added tutor with user id "tutor131" and total hours: 10.
+Successfully added tutor with user id "tutor132" and total hours: 10.
+Successfully added tutor with user id "tutor133" and total hours: 80.
+Successfully added student with user id "student111".
+Successfully added student with user id "student112".
+Successfully added student with user id "student113".
+Successfully added topic "x1" to tutor with user id "tutor111" with price of $10.
+Successfully added topic "x1" to tutor with user id "tutor112" with price of $20.
+Successfully added topic "x1" to tutor with user id "tutor113" with price of $30.
+Successfully added topic "x1" to tutor with user id "tutor121" with price of $10.
+Successfully added topic "x1" to tutor with user id "tutor122" with price of $20.
+Successfully added topic "x1" to tutor with user id "tutor123" with price of $30.
+Successfully added topic "x1" to tutor with user id "tutor131" with price of $10.
+Successfully added topic "x1" to tutor with user id "tutor132" with price of $20.
+Successfully added topic "x1" to tutor with user id "tutor133" with price of $30.
+Successfully added topic "x2" to tutor with user id "tutor111" with price of $10.
+Successfully added topic "x2" to tutor with user id "tutor112" with price of $20.
+Successfully added topic "x2" to tutor with user id "tutor113" with price of $30.
+Successfully added topic "x2" to tutor with user id "tutor121" with price of $10.
+Successfully added topic "x2" to tutor with user id "tutor122" with price of $20.
+Successfully added topic "x2" to tutor with user id "tutor123" with price of $30.
+Successfully added topic "x2" to tutor with user id "tutor131" with price of $10.
+Successfully added topic "x2" to tutor with user id "tutor132" with price of $20.
+Successfully added topic "x2" to tutor with user id "tutor133" with price of $30.
+Successfully added topic "x3" to tutor with user id "tutor111" with price of $10.
+Successfully added topic "x3" to tutor with user id "tutor112" with price of $20.
+Successfully added topic "x3" to tutor with user id "tutor113" with price of $30.
+Successfully added topic "x3" to tutor with user id "tutor121" with price of $10.
+Successfully added topic "x3" to tutor with user id "tutor122" with price of $20.
+Successfully added topic "x3" to tutor with user id "tutor123" with price of $30.
+Successfully added topic "x3" to tutor with user id "tutor131" with price of $10.
+Successfully added topic "x3" to tutor with user id "tutor132" with price of $20.
+Successfully added topic "x3" to tutor with user id "tutor133" with price of $30.
+Attempting to fulfill request for "student111" to receive 30 hours of tutoring in topic "x1".
+Tutor "tutor111" will tutor student "student111 for 10 in topic "x1 at a rate of $10
+Tutor "tutor121" will tutor student "student111 for 10 in topic "x1 at a rate of $10
+Tutor "tutor131" will tutor student "student111 for 10 in topic "x1 at a rate of $10
+Attempting to fulfill request for "student112" to receive 30 hours of tutoring in topic "x1".
+Tutor "tutor112" will tutor student "student112 for 10 in topic "x1 at a rate of $20
+Tutor "tutor122" will tutor student "student112 for 10 in topic "x1 at a rate of $20
+Tutor "tutor132" will tutor student "student112 for 10 in topic "x1 at a rate of $20
+Attempting to fulfill request for "student113" to receive 30 hours of tutoring in topic "x1".
+Tutor "tutor113" will tutor student "student113 for 30 in topic "x1 at a rate of $30
+Attempting to fulfill request for "student111" to receive 30 hours of tutoring in topic "x2".
+Tutor "tutor123" will tutor student "student111 for 30 in topic "x2 at a rate of $30
+Attempting to fulfill request for "student112" to receive 30 hours of tutoring in topic "x2".
+Tutor "tutor133" will tutor student "student112 for 30 in topic "x2 at a rate of $30
+Attempting to fulfill request for "student113" to receive 30 hours of tutoring in topic "x2".
+Tutor "tutor113" will tutor student "student113 for 30 in topic "x2 at a rate of $30
+Attempting to fulfill request for "student111" to receive 30 hours of tutoring in topic "x3".
+Tutor "tutor123" will tutor student "student111 for 30 in topic "x3 at a rate of $30
+Attempting to fulfill request for "student112" to receive 30 hours of tutoring in topic "x3".
+Tutor "tutor133" will tutor student "student112 for 30 in topic "x3 at a rate of $30
+Attempting to fulfill request for "student113" to receive 30 hours of tutoring in topic "x3".
+Tutor "tutor113" will tutor student "student113 for 20 in topic "x3 at a rate of $30
+Tutor "tutor123" will tutor student "student113 for 10 in topic "x3 at a rate of $30
+
+Report for tutor "tutor111"
+---------------------------------------------
+Appointment with student "student111": Topic: x1, Hours: 10, Total Revenue: $100
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $100
+---------------------------------------------
+
+Report for tutor "tutor112"
+---------------------------------------------
+Appointment with student "student112": Topic: x1, Hours: 10, Total Revenue: $200
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $200
+---------------------------------------------
+
+Report for tutor "tutor113"
+---------------------------------------------
+Appointment with student "student113": Topic: x1, Hours: 30, Total Revenue: $900
+Appointment with student "student113": Topic: x2, Hours: 30, Total Revenue: $900
+Appointment with student "student113": Topic: x3, Hours: 20, Total Revenue: $600
+Total number of hours of tutoring: 80
+Total revenue from tutoring: $2400
+---------------------------------------------
+
+Report for tutor "tutor121"
+---------------------------------------------
+Appointment with student "student111": Topic: x1, Hours: 10, Total Revenue: $100
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $100
+---------------------------------------------
+
+Report for tutor "tutor122"
+---------------------------------------------
+Appointment with student "student112": Topic: x1, Hours: 10, Total Revenue: $200
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $200
+---------------------------------------------
+
+Report for tutor "tutor123"
+---------------------------------------------
+Appointment with student "student111": Topic: x2, Hours: 30, Total Revenue: $900
+Appointment with student "student111": Topic: x3, Hours: 30, Total Revenue: $900
+Appointment with student "student113": Topic: x3, Hours: 10, Total Revenue: $300
+Total number of hours of tutoring: 70
+Total revenue from tutoring: $2100
+---------------------------------------------
+
+Report for tutor "tutor131"
+---------------------------------------------
+Appointment with student "student111": Topic: x1, Hours: 10, Total Revenue: $100
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $100
+---------------------------------------------
+
+Report for tutor "tutor132"
+---------------------------------------------
+Appointment with student "student112": Topic: x1, Hours: 10, Total Revenue: $200
+Total number of hours of tutoring: 10
+Total revenue from tutoring: $200
+---------------------------------------------
+
+Report for tutor "tutor133"
+---------------------------------------------
+Appointment with student "student112": Topic: x2, Hours: 30, Total Revenue: $900
+Appointment with student "student112": Topic: x3, Hours: 30, Total Revenue: $900
+Total number of hours of tutoring: 60
+Total revenue from tutoring: $1800
+---------------------------------------------
+Failed while trying to add duplicate tutor with user id "tutor1".
+Failed while trying to add duplicate student with user id "student1".
+Failed while trying to add duplicate topic "OO" to tutor with user id "tutor1"
+Failed while trying to add a topic to nonexistent tutor with user id "othertutor"
+Failed request from nonexistent student with user id "otherstudent"
+Failed while trying to print report of nonexistent student with user id "stewdent".
+Failed while trying to print report of nonexistent tutor with user id "toootor".
+Successfully quit program from QUIT command.
+End of program.
