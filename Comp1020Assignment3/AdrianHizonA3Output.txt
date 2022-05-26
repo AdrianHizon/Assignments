@@ -1,0 +1,275 @@
+There are 3 clans in the world.
+---------- 
+Settlers
+Total attack power: 95
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=100 attack=15 (Archer)
+Fighter: health=200 attack=20 (Barbarian)
+Civilian
+---------- 
+Raiders
+Total attack power: 35
+Fighter: health=200 attack=20 (Barbarian)
+Civilian
+Civilian
+Fighter: health=100 attack=15 (Archer)
+Civilian
+---------- 
+Hordes
+Total attack power: 110
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=100 attack=15 (Archer)
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=100 attack=15 (Archer)
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=200 attack=20 (Barbarian)
+Civilian
+
+Clan Raiders is attacking clan Settlers.
+
+There are 3 clans in the world.
+---------- 
+Settlers
+Total attack power: 165
+Fighter: health=195 attack=35 (Barbarian)
+Fighter: health=198 attack=35 (Barbarian)
+Fighter: health=200 attack=35 (Barbarian)
+Fighter: health=94 attack=25 (Archer)
+Fighter: health=198 attack=35 (Barbarian)
+Civilian
+---------- 
+Raiders
+Total attack power: 60
+Fighter: health=171 attack=35 (Barbarian)
+Civilian
+Civilian
+Fighter: health=88 attack=25 (Archer)
+Civilian
+---------- 
+Hordes
+Total attack power: 110
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=100 attack=15 (Archer)
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=100 attack=15 (Archer)
+Fighter: health=200 attack=20 (Barbarian)
+Fighter: health=200 attack=20 (Barbarian)
+Civilian
+
+Clan Raiders is attacking clan Hordes.
+
+There are 3 clans in the world.
+---------- 
+Settlers
+Total attack power: 165
+Fighter: health=195 attack=35 (Barbarian)
+Fighter: health=198 attack=35 (Barbarian)
+Fighter: health=200 attack=35 (Barbarian)
+Fighter: health=94 attack=25 (Archer)
+Fighter: health=198 attack=35 (Barbarian)
+Civilian
+---------- 
+Raiders
+Total attack power: 85
+Fighter: health=140 attack=50 (Barbarian)
+Civilian
+Civilian
+Fighter: health=56 attack=35 (Archer)
+Civilian
+---------- 
+Hordes
+Total attack power: 190
+Fighter: health=191 attack=35 (Barbarian)
+Fighter: health=91 attack=25 (Archer)
+Fighter: health=198 attack=35 (Barbarian)
+Fighter: health=96 attack=25 (Archer)
+Fighter: health=191 attack=35 (Barbarian)
+Fighter: health=192 attack=35 (Barbarian)
+Civilian
+
+Clan Settlers is attacking clan Hordes.
+
+There are 3 clans in the world.
+---------- 
+Settlers
+Total attack power: 235
+Fighter: health=195 attack=50 (Barbarian)
+Fighter: health=162 attack=50 (Barbarian)
+Fighter: health=186 attack=50 (Barbarian)
+Fighter: health=85 attack=35 (Archer)
+Fighter: health=173 attack=50 (Barbarian)
+Civilian
+---------- 
+Raiders
+Total attack power: 85
+Fighter: health=140 attack=50 (Barbarian)
+Civilian
+Civilian
+Fighter: health=56 attack=35 (Archer)
+Civilian
+---------- 
+Hordes
+Total attack power: 270
+Fighter: health=168 attack=50 (Barbarian)
+Fighter: health=85 attack=35 (Archer)
+Fighter: health=186 attack=50 (Barbarian)
+Fighter: health=85 attack=35 (Archer)
+Fighter: health=181 attack=50 (Barbarian)
+Fighter: health=190 attack=50 (Barbarian)
+Civilian
+
+Clan Hordes is attacking clan Raiders.
+
+There are 3 clans in the world.
+---------- 
+Settlers
+Total attack power: 235
+Fighter: health=195 attack=50 (Barbarian)
+Fighter: health=162 attack=50 (Barbarian)
+Fighter: health=186 attack=50 (Barbarian)
+Fighter: health=85 attack=35 (Archer)
+Fighter: health=173 attack=50 (Barbarian)
+Civilian
+---------- 
+Raiders
+Total attack power: 65
+Fighter: health=27 attack=65 (Barbarian)
+Civilian
+Civilian
+Civilian
+---------- 
+Hordes
+Total attack power: 350
+Fighter: health=159 attack=65 (Barbarian)
+Fighter: health=75 attack=45 (Archer)
+Fighter: health=182 attack=65 (Barbarian)
+Fighter: health=76 attack=45 (Archer)
+Fighter: health=180 attack=65 (Barbarian)
+Fighter: health=183 attack=65 (Barbarian)
+Civilian
+
+Clan Raiders is attacking clan Hordes.
+
+Clan Raiders has been wiped out.
+
+There are 2 clans in the world.
+---------- 
+Settlers
+Total attack power: 235
+Fighter: health=195 attack=50 (Barbarian)
+Fighter: health=162 attack=50 (Barbarian)
+Fighter: health=186 attack=50 (Barbarian)
+Fighter: health=85 attack=35 (Archer)
+Fighter: health=173 attack=50 (Barbarian)
+Civilian
+---------- 
+Hordes
+Total attack power: 430
+Fighter: health=153 attack=80 (Barbarian)
+Fighter: health=75 attack=55 (Archer)
+Fighter: health=176 attack=80 (Barbarian)
+Fighter: health=72 attack=55 (Archer)
+Fighter: health=173 attack=80 (Barbarian)
+Fighter: health=180 attack=80 (Barbarian)
+Civilian
+
+Clan Hordes is attacking clan Settlers.
+
+There are 2 clans in the world.
+---------- 
+Settlers
+Total attack power: 305
+Fighter: health=167 attack=65 (Barbarian)
+Fighter: health=127 attack=65 (Barbarian)
+Fighter: health=163 attack=65 (Barbarian)
+Fighter: health=44 attack=45 (Archer)
+Fighter: health=165 attack=65 (Barbarian)
+Civilian
+---------- 
+Hordes
+Total attack power: 510
+Fighter: health=121 attack=95 (Barbarian)
+Fighter: health=41 attack=65 (Archer)
+Fighter: health=154 attack=95 (Barbarian)
+Fighter: health=36 attack=65 (Archer)
+Fighter: health=156 attack=95 (Barbarian)
+Fighter: health=160 attack=95 (Barbarian)
+Civilian
+
+Clan Hordes is attacking clan Settlers.
+
+There are 2 clans in the world.
+---------- 
+Settlers
+Total attack power: 320
+Fighter: health=150 attack=80 (Barbarian)
+Fighter: health=89 attack=80 (Barbarian)
+Fighter: health=129 attack=80 (Barbarian)
+Fighter: health=164 attack=80 (Barbarian)
+Civilian
+---------- 
+Hordes
+Total attack power: 590
+Fighter: health=87 attack=110 (Barbarian)
+Fighter: health=3 attack=75 (Archer)
+Fighter: health=110 attack=110 (Barbarian)
+Fighter: health=6 attack=75 (Archer)
+Fighter: health=136 attack=110 (Barbarian)
+Fighter: health=132 attack=110 (Barbarian)
+Civilian
+
+Clan Settlers is attacking clan Hordes.
+
+There are 2 clans in the world.
+---------- 
+Settlers
+Total attack power: 380
+Fighter: health=107 attack=95 (Barbarian)
+Fighter: health=40 attack=95 (Barbarian)
+Fighter: health=21 attack=95 (Barbarian)
+Fighter: health=80 attack=95 (Barbarian)
+Civilian
+---------- 
+Hordes
+Total attack power: 500
+Fighter: health=71 attack=125 (Barbarian)
+Fighter: health=76 attack=125 (Barbarian)
+Fighter: health=96 attack=125 (Barbarian)
+Fighter: health=123 attack=125 (Barbarian)
+Civilian
+
+Clan Hordes is attacking clan Settlers.
+
+There are 2 clans in the world.
+---------- 
+Settlers
+Total attack power: 330
+Fighter: health=8 attack=110 (Barbarian)
+Fighter: health=5 attack=110 (Barbarian)
+Fighter: health=1 attack=110 (Barbarian)
+Civilian
+---------- 
+Hordes
+Total attack power: 560
+Fighter: health=66 attack=140 (Barbarian)
+Fighter: health=14 attack=140 (Barbarian)
+Fighter: health=19 attack=140 (Barbarian)
+Fighter: health=74 attack=140 (Barbarian)
+Civilian
+
+Clan Hordes is attacking clan Settlers.
+
+Clan Settlers has been wiped out.
+
+There is 1 clan in the world.
+---------- 
+Hordes
+Total attack power: 465
+Fighter: health=5 attack=155 (Barbarian)
+Fighter: health=11 attack=155 (Barbarian)
+Fighter: health=24 attack=155 (Barbarian)
+Civilian
+
+Game Over.
