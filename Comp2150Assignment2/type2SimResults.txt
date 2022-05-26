@@ -1,0 +1,89 @@
+The filename is: officialTestA2.txt
+The version selected is: 2
+TIME: 1, Food Order #1 arrives -> Expiry: 10 - Meal: Pizza - Ingredients: 3 - Prep. Time: 9 - Price: $15.99
+TIME: 1, Food Order #1 is getting prepared by the chef!
+TIME: 5, Food Order #2 arrives -> Expiry: 20 - Meal: Stew - Ingredients: 4 - Prep. Time: 11 - Price: $18.99
+TIME: 10, Food Order #1 has been served! Revenue grew by: $15.99
+TIME: 10, Food Order #2 is getting prepared by the chef!
+TIME: 10, Food Order #3 arrives -> Expiry: 30 - Meal: Burger - Ingredients: 4 - Prep. Time: 8 - Price: $12.99
+TIME: 21, Food Order #2 has been served! Revenue grew by: $18.99
+TIME: 21, Food Order #3 is getting prepared by the chef!
+TIME: 29, Food Order #3 has been served! Revenue grew by: $12.99
+TIME: 50, Food Order #4 arrives -> Expiry: 60 - Meal: Pizza - Ingredients: 6 - Prep. Time: 12 - Price: $18.99
+TIME: 50, Food Order #4 is getting prepared by the chef!
+TIME: 60, Food Order #5 arrives -> Expiry: 75 - Meal: Stew - Ingredients: 7 - Prep. Time: 14 - Price: $21.99
+TIME: 62, Food Order #4 has been served! Revenue grew by: $18.99
+TIME: 62, Food Order #5 is getting prepared by the chef!
+TIME: 76, Food Order #5 has been served! Revenue grew by: $21.99
+TIME: 100, Food Order #6 arrives -> Expiry: 125 - Meal: Salad - Ingredients: 4 - Prep. Time: 7 - Price: $10.99
+TIME: 100, Food Order #6 is getting prepared by the chef!
+TIME: 105, Food Order #7 arrives -> Expiry: 150 - Meal: Stew - Ingredients: 1 - Prep. Time: 8 - Price: $15.99
+TIME: 105, Food Order #8 arrives -> Expiry: 150 - Meal: Burger - Ingredients: 1 - Prep. Time: 5 - Price: $9.99
+TIME: 105, Food Order #9 arrives -> Expiry: 150 - Meal: Stew - Ingredients: 4 - Prep. Time: 11 - Price: $18.99
+TIME: 105, Food Order #10 arrives -> Expiry: 150 - Meal: Salad - Ingredients: 3 - Prep. Time: 6 - Price: $9.99
+TIME: 105, Food Order #11 arrives -> Expiry: 150 - Meal: Pizza - Ingredients: 3 - Prep. Time: 9 - Price: $15.99
+TIME: 105, Food Order #12 arrives -> Expiry: 150 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 105, Food Order #13 arrives -> Expiry: 150 - Meal: Burger - Ingredients: 4 - Prep. Time: 8 - Price: $12.99
+TIME: 105, Food Order #14 arrives -> Expiry: 150 - Meal: Pizza - Ingredients: 4 - Prep. Time: 10 - Price: $16.99
+TIME: 105, Food Order #15 arrives -> Expiry: 150 - Meal: Pizza - Ingredients: 7 - Prep. Time: 13 - Price: $19.99
+TIME: 105, Food Order #16 arrives -> Expiry: 150 - Meal: Stew - Ingredients: 3 - Prep. Time: 10 - Price: $17.99
+TIME: 105, Food Order #17 arrives -> Expiry: 150 - Meal: Stew - Ingredients: 5 - Prep. Time: 12 - Price: $19.99
+TIME: 105, Food Order #18 arrives -> Expiry: 150 - Meal: Salad - Ingredients: 1 - Prep. Time: 4 - Price: $7.99
+TIME: 105, Food Order #19 arrives -> Expiry: 150 - Meal: Burger - Ingredients: 1 - Prep. Time: 5 - Price: $9.99
+TIME: 107, Food Order #6 has been served! Revenue grew by: $10.99
+TIME: 107, Food Order #19 is getting prepared by the chef!
+TIME: 112, Food Order #19 has been served! Revenue grew by: $9.99
+TIME: 112, Food Order #18 is getting prepared by the chef!
+TIME: 116, Food Order #18 has been served! Revenue grew by: $7.99
+TIME: 116, Food Order #17 is getting prepared by the chef!
+TIME: 128, Food Order #17 has been served! Revenue grew by: $19.99
+TIME: 128, Food Order #16 is getting prepared by the chef!
+TIME: 138, Food Order #16 has been served! Revenue grew by: $17.99
+TIME: 138, Food Order #15 is getting prepared by the chef!
+TIME: 151, Food Order #15 has been served! Revenue grew by: $19.99
+TIME: 500, Food Order #20 arrives -> Expiry: 520 - Meal: Burger - Ingredients: 1 - Prep. Time: 5 - Price: $9.99
+TIME: 500, Food Order #20 is getting prepared by the chef!
+TIME: 505, Food Order #20 has been served! Revenue grew by: $9.99
+TIME: 505, Food Order #21 arrives -> Expiry: 525 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 505, Food Order #21 is getting prepared by the chef!
+TIME: 510, Food Order #22 arrives -> Expiry: 520 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 511, Food Order #21 has been served! Revenue grew by: $10.99
+TIME: 511, Food Order #22 is getting prepared by the chef!
+TIME: 511, Food Order #23 arrives -> Expiry: 525 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 515, Food Order #24 arrives -> Expiry: 529 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 517, Food Order #22 has been served! Revenue grew by: $10.99
+TIME: 517, Food Order #24 is getting prepared by the chef!
+TIME: 520, Food Order #25 arrives -> Expiry: 535 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 521, Food Order #26 arrives -> Expiry: 536 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 522, Food Order #27 arrives -> Expiry: 538 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 523, Food Order #24 has been served! Revenue grew by: $10.99
+TIME: 523, Food Order #27 is getting prepared by the chef!
+TIME: 524, Food Order #28 arrives -> Expiry: 540 - Meal: Burger - Ingredients: 4 - Prep. Time: 8 - Price: $12.99
+TIME: 525, Food Order #29 arrives -> Expiry: 550 - Meal: Burger - Ingredients: 2 - Prep. Time: 6 - Price: $10.99
+TIME: 529, Food Order #27 has been served! Revenue grew by: $10.99
+TIME: 529, Food Order #29 is getting prepared by the chef!
+TIME: 535, Food Order #29 has been served! Revenue grew by: $10.99
+TIME: 535, Food Order #28 is getting prepared by the chef!
+TIME: 543, Food Order #28 has been served! Revenue grew by: $12.99
+TIME: 700, Food Order #30 arrives -> Expiry: 730 - Meal: Pizza - Ingredients: 3 - Prep. Time: 9 - Price: $15.99
+TIME: 700, Food Order #30 is getting prepared by the chef!
+TIME: 701, Food Order #31 arrives -> Expiry: 750 - Meal: Pizza - Ingredients: 1 - Prep. Time: 7 - Price: $13.99
+TIME: 702, Food Order #32 arrives -> Expiry: 730 - Meal: Pizza - Ingredients: 1 - Prep. Time: 7 - Price: $13.99
+TIME: 703, Food Order #33 arrives -> Expiry: 740 - Meal: Pizza - Ingredients: 2 - Prep. Time: 8 - Price: $14.99
+TIME: 704, Food Order #34 arrives -> Expiry: 755 - Meal: Pizza - Ingredients: 3 - Prep. Time: 9 - Price: $15.99
+TIME: 705, Food Order #35 arrives -> Expiry: 740 - Meal: Pizza - Ingredients: 10 - Prep. Time: 16 - Price: $22.99
+TIME: 706, Food Order #36 arrives -> Expiry: 740 - Meal: Pizza - Ingredients: 1 - Prep. Time: 7 - Price: $13.99
+TIME: 707, Food Order #37 arrives -> Expiry: 740 - Meal: Pizza - Ingredients: 1 - Prep. Time: 7 - Price: $13.99
+TIME: 709, Food Order #30 has been served! Revenue grew by: $15.99
+TIME: 709, Food Order #37 is getting prepared by the chef!
+TIME: 716, Food Order #37 has been served! Revenue grew by: $13.99
+TIME: 716, Food Order #36 is getting prepared by the chef!
+TIME: 723, Food Order #36 has been served! Revenue grew by: $13.99
+TIME: 723, Food Order #35 is getting prepared by the chef!
+TIME: 739, Food Order #35 has been served! Revenue grew by: $22.99
+TIME: 739, Food Order #34 is getting prepared by the chef!
+TIME: 748, Food Order #34 has been served! Revenue grew by: $15.99
+TIME: 748, Food Order #31 is getting prepared by the chef!
+TIME: 755, Food Order #31 has been served! Revenue grew by: $13.99
+- Total number of orders completed: 24
+- Total revenue: $350.76
